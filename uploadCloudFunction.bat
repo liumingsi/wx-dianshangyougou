@@ -1,0 +1,1 @@
+"D:\live\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-1g92nndad8d5d72c --n quickstartFunctions --r --project "D:\wxapp\mysuper" --report_first --report
